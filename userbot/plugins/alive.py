@@ -17,10 +17,10 @@ pm_caption += "**Version** : `3.0`\n"
 pm_caption += "**Current Sat** : `StarkGangSat-2.25`\n"
 pm_caption += f"**My Boss** : {DEFAULTUSER} \n"
 pm_caption += "**Heroku Database** : `AWS - Working Properly`\n\n"
-pm_caption += "**License** : [GNU General Public License v3.0](github.com/StarkGang/FridayUserbot/blob/master/LICENSE)\n"
+pm_caption += "**License** : GNU ALOK\n"
 pm_caption += "Copyright : By [StarkGang@Github](GitHub.com/StarkGang)\n"
 pm_caption += "**OS** : `Slim Buster`"
-pm_caption += " [Deploy FridayUserbot](https://telegra.ph/FRIDAY-06-15)"
+pm_caption += " :)"
 
 @borg.on(admin_cmd(pattern=r"alive"))
 @borg.on(sudo_cmd(pattern=r"alive", allow_sudo=True))
